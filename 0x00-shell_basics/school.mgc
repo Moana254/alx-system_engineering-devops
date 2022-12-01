@@ -1,8 +1,6 @@
 #!/bin/bash
 0 string SCHOOL School data
 !:mime School
-
-the above command is to be typed in the school.mgc file. after words execute the below commands in that order
 1. file -C -m school.mgc
 2. cp /bin/ls
 3. file --mime-type -m school.mgc *
